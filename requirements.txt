@@ -1,0 +1,4 @@
+python-telegram-bot==20.8
+ccxt==4.1.87
+pandas==2.2.2
+ta==0.11.0
